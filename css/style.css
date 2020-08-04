@@ -83,7 +83,8 @@ label {
 /*-- Logo --*/
 
 .logo {
-	width: 60%;
+	width: 140px;
+	height: 80px;
 	float: left;
 }
 
